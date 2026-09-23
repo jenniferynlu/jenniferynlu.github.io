@@ -17,6 +17,9 @@
 @media(max-width:580px){.divider-label{font-size:9px}.wordmark{font-size:40px}.bunny-divider{gap:8px}}
 @media print{.titlebar{background:#fff;color:#000}.titlebar .file-label,.titlebar .section-number{color:#000}.titlebar .tiny-bunny{filter:none}.window{box-shadow:none}}
 
+/* Extra breathing room between the name and the navigation. */
+.identity{margin-bottom:38px}
+
 /* Keep the introduction and personal boxes together in the About Me window. */
 .about-intro{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-bottom:16px}
 .about-intro h2{margin:10px 0 0}.about-intro>img{flex:none}
