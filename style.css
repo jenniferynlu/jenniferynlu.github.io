@@ -19,6 +19,7 @@
 
 /* Extra breathing room between the name and the navigation. */
 .identity{margin-bottom:38px}
+.card-fish{display:inline-block;vertical-align:middle;margin-left:4px}
 
 /* Keep the introduction and personal boxes together in the About Me window. */
 .about-intro{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-bottom:16px}
